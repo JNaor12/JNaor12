@@ -57,7 +57,6 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
 ![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=flat)
   <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=Github&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt='Json' src='https://img.shields.io/badge/-JSON-%232A4C80?logo=json&logoColor=white' />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt='VScode' src='https://img.shields.io/badge/-VS%20Code-%2325AAED?logo=VS%20code&logoColor=white' />
@@ -68,6 +67,7 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
 
 ### OS & Services   
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
 <img alt='linux' src='https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white' />
 <img alt='UbuntuServer' src='https://img.shields.io/badge/-Ubuntu%20Server-%23D64613?logo=ubuntu&logoColor=white' />
