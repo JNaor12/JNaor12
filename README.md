@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="2025-01-14-Welcome-Partner-.gif" border="0" width="20%" height="15%" />
+      <img src="2025-01-14-Welcome-Partner-.gif" border="0" width="40%" height="20%" />
     </div>
 
 ## 👨🏻‍🏫 Roles
