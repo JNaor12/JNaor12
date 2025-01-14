@@ -28,8 +28,8 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
 </p>
 
 
-  ### Markup Languages
-  <p>
+### Markup Languages
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src='https://img.shields.io/badge/-CSS3-%233FADDA?logo=css3&logoColor=white'>
   <img alt='XML' src='https://img.shields.io/badge/-XML%20%7C%20Xpath-%23EA971E?logo=xml&logoColor=white'/>
