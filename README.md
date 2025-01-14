@@ -73,3 +73,6 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
 <img alt='UbuntuServer' src='https://img.shields.io/badge/-Ubuntu%20Server-%23D64613?logo=ubuntu&logoColor=white' />
 <img alt='Apache' src='https://img.shields.io/badge/-Apache-%23CB2027?logo=apache&logoColor=white' />
 <img alt='Xampp' src='https://img.shields.io/badge/-Xampp-%23F37623?logo=xampp&logoColor=white' />
+
+### Learning
+<img alt='python' src='https://img.shields.io/badge/-Python-%23346FA0?logo=python&logoColor=white' />
