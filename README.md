@@ -74,5 +74,5 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
 <img alt='Xampp' src='https://img.shields.io/badge/-Xampp-%23F37623?logo=xampp&logoColor=white' />
 
 ### Learning
-<img alt='python' src='https://img.shields.io/badge/-Python-%23346FA0?logo=python&logoColor=white' />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt='python' src='https://img.shields.io/badge/-Python-%23346FA0?logo=python&logoColor=white' />
