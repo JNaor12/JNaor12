@@ -68,15 +68,15 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
 ### OS & Services   
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
-<img alt='linux' src='https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white' />
-<img alt='UbuntuServer' src='https://img.shields.io/badge/-Ubuntu%20Server-%23D64613?logo=ubuntu&logoColor=white' />
-<img alt='Apache' src='https://img.shields.io/badge/-Apache-%23CB2027?logo=apache&logoColor=white' />
-<img alt='Xampp' src='https://img.shields.io/badge/-Xampp-%23F37623?logo=xampp&logoColor=white' />
+  <img alt='linux' src='https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white' />
+  <img alt='UbuntuServer' src='https://img.shields.io/badge/-Ubuntu%20Server-%23D64613?logo=ubuntu&logoColor=white' />
+  <img alt='Apache' src='https://img.shields.io/badge/-Apache-%23CB2027?logo=apache&logoColor=white' />
+  <img alt='Xampp' src='https://img.shields.io/badge/-Xampp-%23F37623?logo=xampp&logoColor=white' />
 
 ### Learning
 <p>
-      <img alt='python' src='https://img.shields.io/badge/-Python-%23346FA0?logo=python&logoColor=white' />
-      <img alt="Docker" src='https://img.shields.io/badge/-Docker-%23086AD0?logo=Docker&logoColor=white' />
+   <img alt='python' src='https://img.shields.io/badge/-Python-%23346FA0?logo=python&logoColor=white' />
+   <img alt="Docker" src='https://img.shields.io/badge/-Docker-%23086AD0?logo=Docker&logoColor=white' />
 </p>
 
 ## 📊 GitHub Stats:
