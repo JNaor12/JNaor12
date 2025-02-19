@@ -74,10 +74,9 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
   <img alt='Xampp' src='https://img.shields.io/badge/-Xampp-%23F37623?logo=xampp&logoColor=white' />
 
 ### Learning
-<p>
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
    <img alt='python' src='https://img.shields.io/badge/-Python-%23346FA0?logo=python&logoColor=white' />
    <img alt="Docker" src='https://img.shields.io/badge/-Docker-%23086AD0?logo=Docker&logoColor=white' />
-</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JNaor12&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
