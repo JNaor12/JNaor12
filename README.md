@@ -66,7 +66,6 @@ dinámicos donde la resolución de problemas, la adaptabilidad y la innovación 
   <img alt='MicrosoftO' src='https://img.shields.io/badge/-Microsoft%20Office-%23D33903?logo=Office&logoColor=white' />
 
 ### OS & Services   
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
   <img alt='linux' src='https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white' />
   <img alt='UbuntuServer' src='https://img.shields.io/badge/-Ubuntu%20Server-%23D64613?logo=ubuntu&logoColor=white' />
